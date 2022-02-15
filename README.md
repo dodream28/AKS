@@ -3,6 +3,7 @@
 
 
 #Prerequisites
+
 ######### -An AKS cluster provisioned and is in Running state
 ######### Azure CLI
 ######### az aks get-credentials -g {resource-group} -n {aks-cluster-name}
