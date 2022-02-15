@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-######### -An AKS cluster provisioned and is in Running state
-######### Azure CLI
-######### az aks get-credentials -g {resource-group} -n {aks-cluster-name}
-######### - install Helm for your respective OS - https://github.com/helm/helm/releases
+-An AKS cluster provisioned and is in Running state
+Azure CLI
+az aks get-credentials -g {resource-group} -n {aks-cluster-name}
+- install Helm for your respective OS - https://github.com/helm/helm/releases
