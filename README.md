@@ -1,8 +1,6 @@
 # Monitor your Azure Kubernetes Cluster (AKS) With Prometheus and Grafana
 
-
-
-#Prerequisites
+# Prerequisites
 
 ######### -An AKS cluster provisioned and is in Running state
 ######### Azure CLI
